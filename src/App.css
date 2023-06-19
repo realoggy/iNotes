@@ -1,0 +1,15 @@
+.App {
+  height: 100vh;
+  background-color: rgb(41, 40, 40);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  gap: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+
